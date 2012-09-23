@@ -5,5 +5,5 @@ Una tienda en línea desea una aplicación que permita a un usuario suscribirse 
 
 
 Integrantes:
-Marco García Quiroz
+Marco García Quiroz, 
 Salim Rivera Plácido
