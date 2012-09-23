@@ -1,4 +1,6 @@
 Market::Application.routes.draw do
+  resources :products
+
   resources :clients
 
   # The priority is based upon order of creation:
