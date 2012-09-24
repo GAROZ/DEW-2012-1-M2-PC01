@@ -2,6 +2,7 @@ class ClientsController < ApplicationController
   # GET /clients
   # GET /clients.json
   def index
+    session[:id] = nil
     @clients = Client.all
 
     respond_to do |format|
